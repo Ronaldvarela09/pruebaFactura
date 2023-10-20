@@ -1,0 +1,18 @@
+.container {
+  padding: 30px;
+}
+
+.aling-button {
+  display: flex;
+  justify-content: center;
+}
+
+.load {
+  display: flex;
+  justify-content: center;
+}
+
+.table {
+  display: flex;
+  justify-content: center;
+}
